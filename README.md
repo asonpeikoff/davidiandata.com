@@ -1,7 +1,7 @@
 # davidiandata.com
 
 The directory component of the former AI David Koresh site
-([aidavidkoresh](https://github.com/hack-r/aidavidkoresh), aikoresh.com),
+([aidavidkoresh](https://github.com/asonpeikoff/aidavidkoresh), aikoresh.com),
 rebuilt as a plain data directory. The AI/chat novelty is gone; what remains
 is the curated Waco / Branch Davidian resource directory, ready to be
 supplemented with additional open data that looks like it wants to be
